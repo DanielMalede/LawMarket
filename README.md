@@ -1,10 +1,5 @@
 <h1>LawMarket</h1>
-Welcome to LawMarket, a decentralized platform for legal marketplaces
-built on the Ethereum blockchain. This project allows lawyers and
-clients to interact directly without intermediaries, creating a more
-efficient and cost-effective legal marketplace. The project is
-implemented in Solidity, a programming language specifically designed
-for smart contracts on the Ethereum blockchain.
+LawMarket is a decentralized platform that aims to revolutionize the legal industry by allowing lawyers to offer legal services directly to clients in a secure and transparent manner. The platform enables clients to connect with lawyers from all over the world and access legal services at an affordable cost.
         
 
 <h2>Getting Started</h2>
