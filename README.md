@@ -1,4 +1,3 @@
-# LawMarket
         <h1>LawMarket</h1>
         
           Welcome to LawMarket, a decentralized platform for legal marketplaces
