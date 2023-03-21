@@ -1,3 +1,4 @@
+      <div>
       <h1>LawMarket</h1>
 
       <p>
@@ -52,3 +53,4 @@
         more information about the license in the <b>`LICENSE`</b> file in the root of
         the repository.
       </p>
+</div>
