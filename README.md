@@ -2,10 +2,13 @@
 LawMarket is a decentralized platform that aims to revolutionize the legal industry by allowing lawyers to offer legal services directly to clients in a secure and transparent manner. The platform enables clients to connect with lawyers from all over the world and access legal services at an affordable cost.
         
 
-<h2>Getting Started</h2>
-To use LawMarket, you will need to have access to a web3-enabled
-browser, such as MetaMask. Once you have set up your browser, you can
-visit the LawMarket website to interact with the platform.
+<h2>Getting Started with LawMarket</h2>
+<h4>Installation</h4>
+<ul>
+        <li>Clone the repository using git clone https://github.com/DanielMalede/LawMarket.git </li>      
+        <li>Install the necessary dependencies by running npm install in the root directory of the project.</li>     
+        <li>Run the project using npm start</li>     
+</ul>
 
 <h2>Features</h2>
 <h3>The LawMarket platform includes several features to facilitate
