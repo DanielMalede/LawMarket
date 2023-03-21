@@ -25,18 +25,14 @@ Once a lawyer and client have agreed to work together, they can use
 the LawMarket platform to manage their case. The platform allows them
 to share documents, communicate securely, and track their progress.
 </p>
-<h3>Smart Contracts</h3>
-<p>
-All transactions on LawMarket are managed through smart contracts on
-the Ethereum blockchain. This provides a high level of security and
-transparency for all parties involved.
-</p>
+
 <h3>Contributing</h3>
 <p>
 If you are interested in contributing to the LawMarket project, you
 can find the code on GitHub. We welcome contributions from anyone
 interested in decentralized legal marketplaces.
 </p>
+
 <h3>License</h3>
 <p>
 The LawMarket project is licensed under the MIT License. You can find
