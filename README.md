@@ -13,8 +13,8 @@ browser, such as MetaMask. Once you have set up your browser, you can
 visit the LawMarket website to interact with the platform.
 
 <h2>Features</h2>
-The LawMarket platform includes several features to facilitate
-interactions between lawyers and clients, including:
+<h3>The LawMarket platform includes several features to facilitate
+interactions between lawyers and clients, including:</h3>
 
 <h3>Lawyer Profiles</h3>
 Lawyers can create profiles that list their areas of expertise, rates,
