@@ -1,6 +1,4 @@
-<div>
         <h1>LawMarket</h1>
-
         <p>
           Welcome to LawMarket, a decentralized platform for legal marketplaces
           built on the Ethereum blockchain. This project allows lawyers and
@@ -52,4 +50,3 @@
           more information about the license in the <b>`LICENSE`</b> file in the
           root of the repository.
         </p>
-      </div>
