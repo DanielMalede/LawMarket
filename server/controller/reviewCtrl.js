@@ -61,7 +61,7 @@ let lawyerExist;
 };
 const deleteReview = async (req, res) => {
   const id = req.params.id;
-
+  
   let existUser;
 
   let review;
